@@ -11,10 +11,10 @@ const Roadmap = () => {
           height: "301.597px",
         }}
       >
-        <div className="absolute top-0 right-10 rotate-[10.51deg] text-fuchsia-500 text-8xl font-normal font-secondary lowercase tracking-widest">
+        <div className="absolute top-0 right-10 rotate-12 text-fuchsia-500 ">
           🌞
         </div>
-        <div className="inset-0 flex items-center justify-center font-normal font-secondary">
+        <div className=" flex items-center justify-center font-normal font-secondary">
           <div>
             <div className="text-center text-primary text-5xl pb-4">
               hackathon venue
