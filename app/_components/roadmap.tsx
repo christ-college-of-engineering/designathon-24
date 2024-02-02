@@ -4,7 +4,7 @@ const Roadmap = () => {
 			<div>venue</div>
 			<div className="px-48">
 				<div>
-					<div className="uppercase font-secondary py-4 text-[58px] font-normal">
+					<div className="font-secondary py-4 text-[58px] font-normal">
 						<span className="text-white">hackathon </span>
 						<span className="text-fuchsia-500">roadmap</span>
 					</div>
@@ -13,7 +13,10 @@ const Roadmap = () => {
 					<div className="grid grid-cols-3 grid-rows-2 gap-14 py-4">
 						<div className="flex flex-col gap-3">
 							<h3 className="font-secondary text-2xl text-primary">
-								05th February
+								<span className="font-tertiary font-extrabold">
+									05
+								</span>
+								th February
 							</h3>
 							<p className="font-tertiary text-white">
 								<span className="font-bold">Registration</span>{" "}
@@ -22,7 +25,10 @@ const Roadmap = () => {
 						</div>
 						<div className="flex flex-col gap-3">
 							<h3 className="font-secondary text-2xl text-primary">
-								20th February
+								<span className="font-tertiary font-extrabold">
+									20
+								</span>
+								th February
 							</h3>
 							<p className="font-tertiary text-white">
 								<span className="font-bold">Registration</span>{" "}
@@ -31,7 +37,10 @@ const Roadmap = () => {
 						</div>
 						<div className="flex flex-col gap-3">
 							<h3 className="font-secondary text-2xl text-primary">
-								22th February
+								<span className="font-tertiary font-extrabold">
+									22
+								</span>
+								th February
 							</h3>
 							<p className="font-tertiary text-white">
 								<span className="font-bold">Shortlisting</span>{" "}
@@ -40,7 +49,10 @@ const Roadmap = () => {
 						</div>
 						<div className="flex flex-col gap-3">
 							<h3 className="font-secondary text-2xl text-primary">
-								24th February
+								<span className="font-tertiary font-extrabold">
+									24
+								</span>
+								th February
 							</h3>
 							<p className="font-tertiary text-white">
 								<span className="font-bold">Shortlisted</span>{" "}
@@ -49,7 +61,10 @@ const Roadmap = () => {
 						</div>
 						<div className="flex flex-col gap-3">
 							<h3 className="font-secondary text-2xl text-primary">
-								28th February
+								<span className="font-tertiary font-extrabold">
+									28
+								</span>
+								th February
 							</h3>
 							<p className="font-tertiary text-white">
 								<span className="font-bold">DESIGNATHON’</span>{" "}
@@ -58,7 +73,10 @@ const Roadmap = () => {
 						</div>
 						<div className="flex flex-col gap-3">
 							<h3 className="font-secondary text-2xl text-primary">
-								29th February
+								<span className="font-tertiary font-extrabold">
+									29
+								</span>
+								th February
 							</h3>
 							<p className="font-tertiary text-white">
 								<span className="font-bold">DESIGNATHON</span>{" "}
