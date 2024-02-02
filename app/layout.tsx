@@ -31,7 +31,6 @@ export default function RootLayout({
 					<Connect />
 					<SocialConnect />
 					<Roadmap />
-					<Copyright />
 				</footer>
 			</body>
 		</html>
